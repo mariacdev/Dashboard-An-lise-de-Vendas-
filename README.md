@@ -1,5 +1,6 @@
 # Solução de Business Intelligence utilizando Power BI 
-Desenvolvi uma solução de BI na qual utilizo dados para responder algumas perguntas de negócio em um estudo de caso proposto pela Xperiun.
+Desenvolvi um relatório de performance comercial no mercado alimentício, que além de indicadores de Vendas, Faturamento e Margem analisa a Receita por Mês, trimestre e Ano. No qual utilizo dados para responder algumas perguntas de negócio em um estudo de caso proposto pela Xperiun. 
+
 
 ![Dash Vendas](https://github.com/mariacdev/Brazilian-E-Commerce-Public-Dataset-by-Olist/assets/134116444/5fad1047-8adb-4d20-995b-b94bad6892d8)
 
