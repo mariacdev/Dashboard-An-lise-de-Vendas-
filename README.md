@@ -1,4 +1,4 @@
-# Solução de Business Intelligence utilizando Power BI 
+# Análise de Vendas Utilizando Power BI 
 Desenvolvi um relatório de performance comercial no mercado alimentício, que além de indicadores de Vendas, Faturamento e Margem analisa a Receita por Mês, trimestre e Ano. No qual utilizo dados para responder algumas perguntas de negócio em um estudo de caso proposto pela Xperiun. 
 
 
